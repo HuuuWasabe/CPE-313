@@ -1,2 +1,1 @@
-# CPE-313---San-Gabriel
-A repo for all activities
+Hello my name is **Nil Jedidiah G. San Gabriel**
