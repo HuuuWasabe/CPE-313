@@ -1,4 +1,4 @@
 Name: **Nil Jedidiah G. San Gabriel**
+Section: **CPE32S8**
 
-
-Hello my name is **Nil Jedidiah G. San Gabriel** and I am from the **Philippines**, I am currently taking **Computer Engineering** as my program in the `Technological Institue of the Philippines`
+Hello my name is Nil Jedidiah G. San Gabriel and I am from the Rizal, I am currently taking Data Science as my track in Computer Engineering in the `Technological Institue of the Philippines`. 
