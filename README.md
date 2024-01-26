@@ -2,3 +2,7 @@ Hello my name is **Nil Jedidiah G. San Gabriel** and I am from Rizal, I am curre
 <p align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/{HuuuWasabe}/count.svg)
+
+<p align="center">
+    <img width="200" src="https://profile-counter.glitch.me/{HuuuWasabe}/count.svg" alt="Visitor Count">
+</p>
