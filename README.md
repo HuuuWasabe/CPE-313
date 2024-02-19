@@ -19,9 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=HuuuWasabe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-    <img width="500" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Visitor Count"><br>
-    Visitor Count:
-    <br><img width="200" src="https://profile-counter.glitch.me/{HuuuWasabe}/count.svg" alt="Visitor Count">
-</p>
