@@ -18,6 +18,6 @@
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-    Visitor Count:
+    **Visitor Count:**
     <br><img width="200" src="https://profile-counter.glitch.me/{HuuuWasabe}/count.svg" alt="Visitor Count">
 </p>
